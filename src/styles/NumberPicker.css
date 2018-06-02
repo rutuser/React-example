@@ -1,0 +1,22 @@
+.numberPickerStyle {
+    background: whitesmoke;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    border: .8px solid black;
+    border-radius: 20%;
+    display: flex;
+}
+
+.numberPickerButtonsStyle {
+    width: 38px;
+    height: 38px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 50%;
+    background: grey;
+}
+
+.numberPickerLabelStyle {
+    margin: auto;
+}
